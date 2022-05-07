@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### Languages and Frameworks
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=da-revo&color=green&label=Profile+Views)
 
