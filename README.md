@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on <a href="https://getzigg.com/app">ZIGG</a>
-- Get free $100 Digital Ocean Credit if you use my referral 👇🏽
-- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=60b3457e96de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=60b3457e96de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+- Get free $100 Digital Ocean Credit if you use my referral 👆🏽
 
 
 #### Known Technologies
