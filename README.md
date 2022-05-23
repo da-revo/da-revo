@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=da-revo&color=green&label=Profile+Views)
 
-[//]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-revo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[//]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-revo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![genPassportScore](https://github-readme-stats.vercel.app/api/pin/?username=da-revo&repo=genPassportScore&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
