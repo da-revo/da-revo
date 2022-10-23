@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 🔭 I’m currently working on <a href="https://getzigg.com/app">ZIGG</a>
 -->
 
-- 🔭 I’m currently working at <a href="https://www.ycombinator.com/companies/marketfeed">marketfeed (YC S21)</a>
+- 🌱 I’m currently working at <a href="https://www.ycombinator.com/companies/marketfeed">marketfeed (YC S21)</a>
+- 🔭 I’m currently working on <a href="https://getzigg.com/app">ZIGG</a>
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=60b3457e96de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 - 👆🏽 Get free $100 Digital Ocean credit if you use my referral 
 
