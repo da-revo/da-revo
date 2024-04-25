@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-Check out my portfolio here: [cyril-joy-mangalan.vercel.app](cyril-joy-mangalan.vercel.app)
+Check out my portfolio here: [cyril-joy-mangalan.vercel.app](https://cyril-joy-mangalan.vercel.app)
 
 - 🌱 I previously worked at at <a href="https://www.ycombinator.com/companies/marketfeed">marketfeed (YC S21)</a>
 - 🔭 Creator of <a href="https://getzigg.com/app">ZIGG</a>
