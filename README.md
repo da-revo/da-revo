@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently working at <a href="https://www.ycombinator.com/companies/marketfeed">marketfeed (YC S21)</a>
+Check out my portfolio here: [cyril-joy-mangalan.vercel.app](cyril-joy-mangalan.vercel.app)
+
+- 🌱 I previously worked at at <a href="https://www.ycombinator.com/companies/marketfeed">marketfeed (YC S21)</a>
 - 🔭 Creator of <a href="https://getzigg.com/app">ZIGG</a>
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=60b3457e96de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 - 👆🏽 Get free $100 Digital Ocean credit if you use my referral 
